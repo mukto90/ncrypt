@@ -16,7 +16,7 @@ A simple PHP class to encrypt a string, and decrypt an encrypted string
     }
 }
 ```
-- Run `composer update` command.
+- Run `composer install` command.
 - Include your autoloader file (if not already), like this-
 ```php
 include 'vendor/autoload.php';
