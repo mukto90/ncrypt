@@ -1,4 +1,4 @@
-# Ncrypt : A two-way encryption system
+# Ncrypt : A 2-way encryption system
 
 A simple PHP class to encrypt a string, and decrypt an encrypted string
 

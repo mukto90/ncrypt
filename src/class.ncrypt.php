@@ -23,7 +23,7 @@ class Ncrypt {
 	private $secret_key = '#@%)(#&%&-my-really-secret-key';
 
 	/**
-	 * Secret IV
+	 * Secret Init Vector
 	 *
 	 * Personalized string to be used in encryption/decryption. It's STRONGY recommended to
 	 * change it to your own.
