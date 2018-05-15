@@ -6,7 +6,7 @@ A simple PHP class to encrypt a string, and decrypt an encrypted string
 
 ### Include the class
 
-#### Option 1
+#### Option 1 (using Composer)
 
 - Add the following to your `composer.json` file-
 ```json
