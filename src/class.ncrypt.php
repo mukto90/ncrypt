@@ -13,7 +13,7 @@ class Ncrypt {
 	/**
 	 * Secret Key
 	 *
-	 * Personalized string to be used in encription. It's STRONGY recommended to
+	 * Personalized string to be used in encryption/decryption. It's STRONGY recommended to
 	 * change it to your own.
 	 *
 	 * @see set_secret_key() method below.
@@ -25,7 +25,7 @@ class Ncrypt {
 	/**
 	 * Secret IV
 	 *
-	 * Personalized string to be used in encription. It's STRONGY recommended to
+	 * Personalized string to be used in encryption/decryption. It's STRONGY recommended to
 	 * change it to your own.
 	 *
 	 * @see set_secret_iv() method below.
