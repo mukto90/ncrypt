@@ -1,0 +1,22 @@
+{
+    "name": "mukto90/ncrypt",
+    "type": "library",
+    "description": "A simple PHP class to encrypt a string and decrypt an encrypted string",
+    "keywords": ["encryption","decryption","encryption and decryption", "2 way encryption and decryption"],
+    "homepage": "https://github.com/mukto90/ncrypt",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Nazmul Ahsan",
+            "email": "n.mukto@gmail.com",
+            "homepage": "https://nazmulahsan.me",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
